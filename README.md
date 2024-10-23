@@ -1,1 +1,1 @@
-meu nome é leonardo. tenho 14 anos e estudo no ifpr campus pinhais.
+pedra papel e tesoura ----->  leonardomenegazzo2612.github.io/pedra papel e tesoura.md
