@@ -610,8 +610,6 @@ while perder != 1:
             print(f'e o fogo?')
             print(f'vc durou {controds} rodadas. parabens!')
             perder = 1
-
-    
     controds += 1
     print(f'escolha sua proxima carta')
     print(f'')
