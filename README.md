@@ -1,1 +1,2 @@
-pedra papel e tesoura ----->  leonardomenegazzo2612.github.io/pedra papel e tesoura.md
+pedra papel e tesoura V1 ----->  
+pedra papel e tesoura V2 ----->
